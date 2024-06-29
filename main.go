@@ -1,14 +1,7 @@
 package main
 
-import (
-	"io/ioutil"
-
-	"github.com/danieldavies99/CryptopalsGoV2/utilities/base64"
-	"github.com/danieldavies99/CryptopalsGoV2/utilities/cbc"
-	"github.com/danieldavies99/CryptopalsGoV2/utilities/pkcs7"
-)
-
+// This repo is not designed to be ran from main.go
+// instead, run the unit to validate my solutions.
 func main() {
 
 }
-
